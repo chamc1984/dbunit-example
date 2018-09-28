@@ -1,5 +1,5 @@
-# mockito-example
-Mockitoの動作確認をするためのプロジェクト。
+# dbunit-example
+DBUnitの動作確認をするためのプロジェクト。
 
 ## Spec
 
@@ -11,6 +11,7 @@ Mockitoの動作確認をするためのプロジェクト。
 - JUnit5
 - Mockito
 - AssertJ
+- DBUnit
 
 ### ビルドツール
 
